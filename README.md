@@ -17,4 +17,4 @@ I'm a high school developer involved in various projects, primarily contributing
 ### 📫 Work Experience
 - [UseClipr](https://github.com/CliprTX) Paid Intern (May 2023 - July 2023): Worked on app, website, in-house API in Node.js environement
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-J101&layout=compact&hide=css,jupyter%20notebook,c,assembly&theme=one_dark_pro)
