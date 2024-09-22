@@ -1,6 +1,6 @@
 # Jonathan Daniel
 
-I'm a university student developer involved in various projects, primarily contributing to [Spectrum3847](https://github.com/Spectrum3847) with a focus on automation and vision in FRC Robotics.
+I'm a university student developer involved in various projects, previously contributed to [Spectrum3847](https://github.com/Spectrum3847) with a focus on automation and vision in FRC Robotics.
 
 ### 🛠️ Technologies & Tools
 - **Languages**: Java, JavaScript, Swift, Python
