@@ -15,6 +15,6 @@ I'm a university student developer involved in various projects, previously cont
 - [Moderation Bot](https://github.com/Daniel-J101/Discord-Moderation-Bot): Project to provide Discord servers with automated moderation
 
 ### 📫 Work Experience
-- [UseClipr](https://github.com/CliprTX) Paid Intern (May 2023 - July 2023): Worked on app, website, in-house API in Node.js environement
+- [UseClipr](https://github.com/CliprTX) Paid Intern (May 2023 - July 2023): Worked on app, website, in-house API in Node.js environment
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-J101&layout=compact&hide=css,jupyter%20notebook,c,assembly&theme=one_dark_pro)
