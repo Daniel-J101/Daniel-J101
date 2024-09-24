@@ -3,8 +3,8 @@
 I'm a university student developer involved in various projects, previously contributed to [Spectrum3847](https://github.com/Spectrum3847) with a focus on automation and vision in FRC Robotics.
 
 ### 🛠️ Technologies & Tools
-- **Languages**: Java, JavaScript, Swift, Python
-- **Frameworks**: React, Node.js
+- **Languages**: Java, C++, JavaScript, TypeScript, Python, Swift, Dart
+- **Frameworks**: React, Node.js, Flutter, Git, Firebase, Google Cloud
 
 ### 🌱 I’m currently interested in
 - Computer Vision
