@@ -1,6 +1,6 @@
 # Jonathan Daniel
 
-I'm a university student developer involved in various projects currently working at Switchless, previously contributed to [Spectrum3847](https://github.com/Spectrum3847) with a focus on automation and vision in FRC Robotics.
+I'm a university student developer involved in various projects currently working at [Switchless](https://www.linkedin.com/company/switchlessco), previously contributed to [Spectrum3847](https://github.com/Spectrum3847) with a focus on automation and vision in FRC Robotics.
 
 ### 🛠️ Technologies & Tools
 - **Languages**: Java, C++, JavaScript, TypeScript, Python, Swift, Dart
