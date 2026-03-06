@@ -19,4 +19,4 @@ I'm a university student developer involved in various projects and currently wo
 - [Digital Wallet Passes](https://github.com/Daniel-J101/pass-generator-backend): Project to implement digital wallets to replace physical student IDs
 - [Moderation Bot](https://github.com/Daniel-J101/Discord-Moderation-Bot): Project to provide Discord servers with automated moderation
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-J101&layout=compact&hide=css,jupyter%20notebook,c,assembly&theme=one_dark_pro)
+![Top Langs](./profile/top-langs.svg)
